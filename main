@@ -1,0 +1,3 @@
+git init
+git config --local user.name = "gleb"
+git config --local user.email = privetsladenkiy228@email.com
